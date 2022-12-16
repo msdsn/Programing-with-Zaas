@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-=======
-// Js comm
-
 function twoSum(nums, target) {
     for(i=0;i<nums.length;i++){
         let differance= target-nums[i]
@@ -14,5 +9,6 @@ function twoSum(nums, target) {
     }
 }
 twoSum([3,4,5,7],11)
->>>>>>> 890ab31ff5c91984b74dec629c266ac57d630e45
+
+
 
